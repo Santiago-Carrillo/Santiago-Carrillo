@@ -39,7 +39,7 @@ function ItemListContainer(props) {
                 id: '1',
                 title: 'producto1',
                 price: '500$',
-                pictureUrl: ''
+                pictureUrl: 'https://i.blogs.es/6c994c/2010_09_30_monitores01/450_1000.jpg'
             }
         }
         setReferences([...referens, newReference])
